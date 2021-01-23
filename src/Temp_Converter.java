@@ -20,7 +20,6 @@
  * This program is copyright (c)2021 Jacob Hardman, and Dean Zeller            *
  *                                                                             *
  * ****************************************************************************/
-
 import java.util.Scanner;
 
 public class Temp_Converter {
